@@ -1,11 +1,9 @@
 body {
     margin: 0;
     margin-top: 210px;
-    background-color: #264653;
+    background-color: #63abc7;
     cursor: pointer;
 }
-
-
 
 .contenido {
     position: absolute;
